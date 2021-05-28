@@ -8,18 +8,3 @@ body{
 	flex-wrap: wrap;
 }
 
-.child{
-	width: 25%;
-	border: 5px outset #CB0ED1;
-	color: #CB0ED1;
-	padding: 5%;
-	text-align: center;
-	margin: 5%;
-	box-shadow: 0px 10px 10px 10px #CB0ED1;
-}
-
-.socialicon{
-	width: 150px;
-	border: 1px solid #CB0ED1;
-	border-radius: 20%;
-}
